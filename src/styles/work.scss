@@ -25,19 +25,16 @@
             width: 70%;
             height: 26vmax;
             box-shadow: 0 0 5px 5px $color6;
-            border-radius: 15px;
-
+            border-radius: 10px;
 
             .workItem {
                 display: flex;
-                overflow-y: auto;
                 height: 23vmax;
                 width: 98%;
                 margin: auto;
                 background-color: $color4;
-                border-radius: 20px;
                 padding: 1rem;
-
+                border-radius: 10px;
 
                 >img {
                     border-radius: 20px;
@@ -46,6 +43,7 @@
                 }
 
                 >aside {
+                    
                     width: 60%;
                     display: flex;
                     flex-direction: column;
@@ -53,10 +51,14 @@
                     align-items: center;
 
                     p {
-                        letter-spacing: 3px;
-                        line-height: 180%;
-                        margin-top: 0.6rem;
-                        padding: 0.6rem;
+                       margin-top: 2rem;
+                       background-color: $color5;
+                       color: $color4;
+                       width: 40px;
+                       height: 40px;
+                       display: grid;
+                       place-items: center;
+                       border-radius: 50%;
                     }
 
                     a {

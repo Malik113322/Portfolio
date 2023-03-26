@@ -2,19 +2,19 @@
     width: 100%;
     height: 95vh;
     display: flex;
-
+    
     >section {
         width: 100%;
 
         &:first-of-type {
             padding-left: $p;
-
+            
 
             >div {
                 border-top: 1px solid $color6_1;
                 height: 100%;
                 padding-top: 6rem;
-
+                
 
                 >h1 {
                     font: 900 1.8rem $text1;
@@ -62,7 +62,7 @@
                     display: flex;
                     flex-direction: column;
                     width: 80%;
-
+                    
                 }
 
                 article {
@@ -70,8 +70,8 @@
                     width: 12rem;
                     color: $color5;
                     position: relative;
-
-
+                   
+                    
 
                     h1 {
                         font: 900 2rem $text2;
@@ -93,7 +93,7 @@
                         border-radius: 50px;
                     }
 
-
+                   
 
                 }
             }
@@ -110,14 +110,14 @@
 
             &::after {
                 content: '';
-                width: 39vmax;
-                height: 39vmax;
+                width: 40vmax;
+                height: 40vmax;
                 background-color: $color3;
                 position: absolute;
                 border-radius: 50%;
                 z-index: -1;
-                border: 1px solid $color6;
-
+                border: 3px solid $color6;
+                
             }
 
 
@@ -135,7 +135,7 @@
         position: absolute;
         font-size: 3rem;
         left: 50%;
-        bottom: -5%;
+        bottom: -2%;
         transform: translateX(-50%);
         animation: animateSvg 0.7s infinite linear alternate;
 

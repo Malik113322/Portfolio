@@ -3,14 +3,14 @@
     {
       "date": "14/03/2023",
       "title": "React Cart",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details",
+      "description": "1",
       "url": "https://e-commerce-six-black.vercel.app/",
       "imgSrc": "https://github.com/Malik113322/ProjectPhotos/blob/main/React%20Cart.png?raw=true"
     },
     {
       "date": "1/03/2023",
       "title": "Live Crypto Tracker",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details",
+      "description": "2",
       "url": "https://cryptowatcher-two.vercel.app/",
       "imgSrc": "https://github.com/Malik113322/ProjectPhotos/blob/main/Crypto%20Tracker.png?raw=true"
     },
@@ -18,7 +18,7 @@
     {
       "date": "26/03/2023",
       "title": "PORTFOLIO",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details",
+      "description": "3",
       "url": "/",
       "imgSrc": "https://raw.githubusercontent.com/Malik113322/ProjectPhotos/main/Portfolio.jpg"
     },
@@ -26,14 +26,14 @@
     {
       "date": "26/02/2023",
       "title": "Gaming World",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details",
+      "description": "4",
       "url": "https://gamingworld.vercel.app/",
       "imgSrc": "https://github.com/Malik113322/ProjectPhotos/blob/main/Gaming.png?raw=true"
     },
     {
       "date": "01/02/2023",
       "title": "Service Website",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details",
+      "description": "5",
       "url": "https://servicewebsite.vercel.app/",
       "imgSrc": "https://github.com/Malik113322/ProjectPhotos/blob/main/Service.png?raw=true"
     }
