@@ -1,0 +1,18 @@
+@keyframes animateSvg{
+    to{
+        transform: translate(-50%, 10px)
+    }
+}
+
+
+@keyframes updownupdown{
+    to{
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes icon {
+    to{
+        transform: translateY(5px);
+    }
+}
