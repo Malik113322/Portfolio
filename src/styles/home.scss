@@ -110,8 +110,8 @@
 
             &::after {
                 content: '';
-                width: 40vmax;
-                height: 40vmax;
+                width: 35vmax;
+                height: 35vmax;
                 background-color: $color3;
                 position: absolute;
                 border-radius: 50%;
@@ -122,8 +122,8 @@
 
 
             >img {
-                width: 40vmax;
-                height: 40vmax;
+                width: 35vmax;
+                height: 35vmax;
                 object-fit: contain;
                 padding: 0.1rem;
             }
