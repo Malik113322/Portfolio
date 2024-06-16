@@ -6,22 +6,7 @@ import Me from '../assets/logo.png';
 
 const Home = () => {
 
-    const clientCount = useRef(null);
-    const ProjectCount = useRef(null);
-
-    const animationCliensCount = () => {
-        animate(0, 100, {
-            duration: 1,
-            onUpdate: (v) => (clientCount.current.textContent = v.toFixed())
-        })
-    }
-
-    const animationProjectsCount = () => {
-        animate(0, 500, {
-            duration: 1,
-            onUpdate: (v) => (ProjectCount.current.textContent = v.toFixed())
-        })
-    }
+   
     const animations = {
         h1: {
             initial: {
@@ -74,19 +59,11 @@ const Home = () => {
                     
 
                     <aside>
-                    <article>
-                        <h2>   +<motion.span whileInView={animationCliensCount} ref={clientCount}> </motion.span> </h2>
-                        <p> <span>Clients Worldwide 🌏</span>
-                        </p>
-                    </article>
-                        <article>
-                            <h1> +<motion.span ref={ProjectCount} whileInView={animationProjectsCount}>500</motion.span>  </h1>
-                            <p> <span>Projects Done ✔️</span> </p>
-
-                        </article>
+                    
+                   
 
                         <article>
-                            <h1> <span>Contact 📧</span> </h1>
+                            <h1> <span>Contact Me 📧</span> </h1>
                             <p> <span>danishyt96@gmail.com </span>
                             </p>
                         </article>
