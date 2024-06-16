@@ -36,6 +36,13 @@
       "description": "5",
       "url": "https://servicewebsite.vercel.app/",
       "imgSrc": "https://i.postimg.cc/JzyvJX2f/Service.png"
+    },
+    {
+      "date": "16/06/2024",
+      "title": "MERN STACK ECOMMERCE WEB APPLICATION",
+      "description": "6",
+      "url": "https://ecommerce-frontend-chi-brown.vercel.app",
+      "imgSrc": "https://i.ibb.co/bWqp9sQ/Screenshot-33.png"
     }
 
   ]
