@@ -1,6 +1,13 @@
 {
   "projects": [
     {
+      "date": "16/06/2024",
+      "title": "MERN STACK ECOMMERCE WEB APPLICATION",
+      "description": "6",
+      "url": "https://ecommerce-frontend-chi-brown.vercel.app",
+      "imgSrc": "https://i.ibb.co/bWqp9sQ/Screenshot-33.png"
+    },
+    {
       "date": "14/03/2023",
       "title": "React Cart",
       "description": "1",
