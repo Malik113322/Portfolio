@@ -6,7 +6,7 @@ import data from '../assets/data.json';
 const Work = () => {
   return (
     <div id='work'>
-        <h2>Works</h2>
+        <h2>Work</h2>
      <section>
         <article>
             <Carousel
