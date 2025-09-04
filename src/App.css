@@ -1,0 +1,59 @@
+/* Center line */
+.timelineLine {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 4px;
+  height: 100%;
+  background: linear-gradient(180deg, #007bff, #00c6ff);
+  border-radius: 2px;
+  z-index: 0;
+}
+
+/* Timeline card */
+.timelineContent {
+  position: relative;
+  max-width: 360px;
+  z-index: 2;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.timelineContent:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* Dot */
+.timelineDot {
+  position: absolute;
+  top: 20px;
+  left: -12px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #fff;
+  border: 3px solid #007bff;
+  box-shadow: 0 0 0 5px rgba(0, 123, 255, 0.1);
+}
+
+@media (max-width: 768px) {
+  .timelineLine {
+    left: 12px;
+  }
+  .timelineDot {
+    left: -28px;
+  }
+}
+
+
+.skill-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.skill-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+.text-purple {
+  color: #7952b3; /* Bootstrap purple */
+}

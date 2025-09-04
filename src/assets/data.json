@@ -3,21 +3,15 @@
     {
       "date": "16/06/2024",
       "title": "MERN STACK ECOMMERCE WEB APPLICATION",
-      "description": "6",
+      "description": "Developed a responsive e-commerce platform using the MERN stack with features like product search, shopping cart, order management, and Stripe payment integration. Implemented secure authentication with JWT and bcrypt, and used Cloudinary for image storage. Built an admin panel for product management to ensure scalability and efficiency.",
       "url": "https://ecommerce-frontend-chi-brown.vercel.app",
-      "imgSrc": "https://i.ibb.co/bWqp9sQ/Screenshot-33.png"
+      "imgSrc": "https://i.postimg.cc/jjtZ0z1L/Screenshot-257.png"
     },
-    {
-      "date": "14/03/2023",
-      "title": "React Cart",
-      "description": "1",
-      "url": "https://e-commerce-six-black.vercel.app/",
-      "imgSrc": "https://i.postimg.cc/y6wmfSQh/React-Cart.png"
-    },
+    
     {
       "date": "1/03/2023",
       "title": "Live Crypto Tracker",
-      "description": "2",
+      "description": "responsive crypto live-price app showing real-time market data, interactive candlestick and line charts, customizable watchlists, and price alerts. Connects to exchange APIs, supports multiple fiat conversions, historical range selection, and smooth animations. Ideal for traders and enthusiasts seeking fast, accurate visualizations and instant market insights on web and mobile.",
       "url": "https://cryptowatcher-two.vercel.app/",
       "imgSrc": "https://i.postimg.cc/gjrZMGRT/Crypto-Tracker.png "
     },
@@ -25,31 +19,31 @@
     {
       "date": "26/03/2023",
       "title": "PORTFOLIO",
-      "description": "3",
-      "url": "/",
-      "imgSrc": "https://i.postimg.cc/vBpdgzQS/Portfolio.jpg"
+      "description": "I built a responsive portfolio website using React, Bootstrap, Framer Motion, and Typewriter effects. It showcases my skills, projects, and experience with modern UI design, animations, and a clean layout, highlighting my expertise in full-stack and mobile app development.",
+      "url": "https://my-portfolio-ten-azure-87.vercel.app",
+      "imgSrc": "https://i.postimg.cc/HLSddZHz/Screenshot-259.png"
     },
 
     {
       "date": "26/02/2023",
       "title": "Gaming World",
-      "description": "4",
+      "description": "A modern gaming world landing page featuring bold visuals, dynamic banners, responsive design, trending game highlights, immersive sections, and clear call-to-action buttons for downloads, community engagement, and exploring new releases, delivering an exciting experience for gamers across all devices.",
       "url": "https://gamingworld.vercel.app/",
       "imgSrc": "https://i.postimg.cc/cHGpdJTV/Gaming.png"
     },
     {
       "date": "01/02/2023",
       "title": "Service Website",
-      "description": "5",
+      "description": "A professional service website landing page with a clean layout, responsive design, service highlights, client testimonials, call-to-action buttons, and modern visuals, designed to build trust, attract customers, and showcase business solutions effectively.",
       "url": "https://servicewebsite.vercel.app/",
       "imgSrc": "https://i.postimg.cc/JzyvJX2f/Service.png"
     },
     {
       "date": "16/06/2024",
       "title": "MERN STACK ECOMMERCE WEB APPLICATION",
-      "description": "6",
+      "description": "Developed a responsive e-commerce platform using the MERN stack with features like product search, shopping cart, order management, and Stripe payment integration. Implemented secure authentication with JWT and bcrypt, and used Cloudinary for image storage. Built an admin panel for product management to ensure scalability and efficiency.",
       "url": "https://ecommerce-frontend-chi-brown.vercel.app",
-      "imgSrc": "https://i.ibb.co/bWqp9sQ/Screenshot-33.png"
+      "imgSrc": "https://i.postimg.cc/2j1pKDvg/Screenshot-258.png"
     }
 
   ]
