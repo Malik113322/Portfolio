@@ -26,15 +26,15 @@ const Home = () => {
   return (
     <div
       id="home"
-      className="container-fluid vh-100 d-flex align-items-center position-relative overflow-hidden"
+      className="container-fluid vh-100 d-flex align-items-center position-relative overflow-hidden mt-5"
       style={{
         background:
           "linear-gradient(135deg, #f8f9fa 0%, #e9f2ff 40%, #d6e5ff 100%)",
       }}
     >
-      <div className="row w-100 align-items-center">
+      <div className="row w-100 align-items-center ">
         {/* Left Content */}
-        <div className="col-md-6 text-center text-md-start p-5">
+        <div className="col-md-6 text-center text-md-start p-5 mt-5">
           <motion.h1
             {...animations.h1}
             className="fw-bold display-3 mb-3 text-dark"
