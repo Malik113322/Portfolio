@@ -9,7 +9,7 @@ const Header = () => {
       <div className="container-fluid">
         {/* Logo */}
         <a className="navbar-brand text-muted fw-bold fs-4" href="#home">
-          My Portfolio<span className="text-primary">.</span>
+          Portfolio<span className="text-primary">.</span>
         </a>
 
         {/* Mobile Menu Icon */}
